@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashaswini Thakare</h1>
+<h1 align="center">Hi 👋, I'm Yashashwini Thakare</h1>
 <h3 align="center">🚀 Data Science | AI | Machine Learning Enthusiast</h3>
 
 ---
@@ -10,7 +10,7 @@
 - 🧠 **Currently exploring:** Advanced Data Science, Generative AI & Big Data  
 - 💡 **Passionate about:** Turning raw data into intelligent systems & impactful insights  
 - 💬 **Ask me about:** Python, SQL, Machine Learning, NLP  
-- 📫 **Email:** yashawini.thakre@gmail.com  
+- 📫 **Email:** yashashwini.thakre.official@gmail.com  
 - 📞 **Contact:** +91-8208502696  
 
 ---
@@ -18,10 +18,12 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/yashashwini-thakre/
+<img width="610" height="800" alt="image" src="https://github.com/user-attachments/assets/d02088fe-5ebe-4931-ac5c-e1f4fa912a61" />
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yashawini.thakre@gmail.com">
+  <a href="mailto:yashashwini.thakre.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
